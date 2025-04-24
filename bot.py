@@ -6,8 +6,7 @@ from telegram.ext import (
 import os
 
 
-
-TOKEN = os.getenv("7576054478:AAG7p-9rmqO2n7xJz41pz0u9H7fTnkfcwYs")
+TOKEN = "7576054478:AAG7p-9rmqO2n7xJz41pz0u9H7fTnkfcwYs"
 
 # Paket verileri
 packages = {
